@@ -7,13 +7,13 @@ American Sign Language Detection using Google Colab. This model detects the 26 a
 How to use:
     
     
-    Upload the jupyter notebook on google drive
+- Upload the jupyter notebook on google drive
     
     
-    Open using Google Colab
+- Open using Google Colab
     
     
-    Run all cells
+- Run all cells
     
     
-    Done!
+- Done!
